@@ -1,0 +1,77 @@
+    1  git status
+    2  pkg install git
+    3  cd ~/Nieves_235124958
+    4  git clone git@github.com:ixnyng/25124958_Nieves.git
+    5  ls -a
+    6  ls
+    7  ls -a
+    8  git status
+    9  cd Nieves_25124958
+   10  git clone Nieves_235124958
+   11  git clone 23514958_Nieves
+   12  git clone 235124958_Nieves
+   13  clear
+   14  pkg update && pkg upgrade
+   15  git config --global user.name "ixnyng"
+   16  git config --global user.email "ixnyng@gmail.com"
+   17  gh auth login
+   18  pkg install gh
+   19  gh auth login
+   20  cd 23514958_Nieves
+   21  cd 235124958_Nieves
+   22  cd 235124----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   23  cd 235124958_Nieves
+   24  cd ixnyng/235124958_Nieves
+   25  git clone https://github.com/ixnyng/235124958_Nieves
+   26  cd 235124958_Nieves
+   27  ls -a
+   28  git status
+   29  gh auth login
+   30  \
+   31  clear
+   32  exit
+   33  cd ../..
+   34  cd linux_practice
+   35  mv notes.txt subdir/
+   36  cd subdir
+   37  ls
+   38  cd ../..
+   39  cd subdir
+   40  cd linux_practice
+   41  mv subdir practice_subdir
+   42  cd practice_subdir
+   43  cd notes.txt
+   44  cd ../..
+   45  cd linux_practice
+   46  cp practice_subdir/notes.txt .
+   47  date 
+   48  date & time
+   49  time
+   50  uptime
+   51  up time
+   52  uptime
+   53  du ~
+   54  gh repo clone https://github.com/ixnyng/235124958_Nieves.git
+   55  tail -n 1 notes.tx5
+   56  tail -n 1 notes.txt
+   57  ssh -V
+   58  php -v
+   59  mysql --version
+   60  apache2 -v
+   61  apache -v
+   62  python --version
+   63  git checkout -b finalexam
+   64  git add notes.txt
+   65  git commit -m "Added notes.txt with Linux command practices"
+   66  git push origin finalexam
+   67  cd ~
+   68  cd finalexam
+   69  git clone https://github.com/ixnyng/235124958_Nieves
+   70  git add . exam_log.txy
+   71  gh auth login
+   72  cd finalexam
+   73  cd 235124958_Nieves
+   74  cd finalexam
+   75  git branch
+   76  git checkout -b finalexam
+   77  history > exam_log.txt
