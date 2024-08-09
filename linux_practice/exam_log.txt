@@ -1,0 +1,77 @@
+    1  git status
+    2  pkg install git
+    3  cd ~/Nieves_235124958
+    4  git clone git@github.com:ixnyng/25124958_Nieves.git
+    5  ls -a
+    6  ls
+    7  ls -a
+    8  git status
+    9  cd Nieves_25124958
+   10  git clone Nieves_235124958
+   11  git clone 23514958_Nieves
+   12  git clone 235124958_Nieves
+   13  clear
+   14  pkg update && pkg upgrade
+   15  git config --global user.name "ixnyng"
+   16  git config --global user.email "ixnyng@gmail.com"
+   17  gh auth login
+   18  pkg install gh
+   19  gh auth login
+   20  cd 23514958_Nieves
+   21  cd 235124958_Nieves
+   22  cd 235124----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   23  cd 235124958_Nieves
+   24  cd ixnyng/235124958_Nieves
+   25  git clone https://github.com/ixnyng/235124958_Nieves
+   26  cd 235124958_Nieves
+   27  ls -a
+   28  git status
+   29  gh auth login
+   30  \
+   31  clear
+   32  exit
+   33  head -n notes 1.txt
+   34  head -n 1 notes.txt
+   35  echo "This is a practical exam.">>notes.txt
+   36  head -n q notes.txt
+   37  head -n 1 notes.txt
+   38  cat notes.txt
+   39  echo "This is a practical exam.">>notes.txt
+   40  head -n 1 notes.txt
+   41  echo "Hello, Linux!">notes.txt
+   42  echo "This is a practical exam.">>notes.txt
+   43  head -n 1 notes.txt
+   44  tail -n 1 notes.txt
+   45  mkdir subdir
+   46  mv notes.txt subdir/
+   47  mv subdir practice_subdir
+   48  cp practice_subdir/notes.txt
+   49  cd ../..
+   50  ls
+   51  cd 235124958_Nieves
+   52  cd linux_practice
+   53  mv subdir practice_subdir/
+   54  cd practice_subdir
+   55  ls
+   56  cp practicesubdir/notes.txt
+   57  cp practicesubdir/notes.txt linux_practice/
+   58  ls
+   59  cp practicesubdir/notes.txt 
+   60  cp practicesubdir/notes.txt .
+   61  cd linux_practice
+   62  cd ../..
+   63  cd linux_practice
+   64  cp practice_subdir/notes.txt
+   65  cp practice_subdir/notes.txt .
+   66  date
+   67  uptime
+   68  du~
+   69  du ~
+   70  ssh -v
+   71  php -v
+   72  mysql --version
+   73  python --version
+   74  git checkout -b finalexam
+   75  git pull origin finalexam
+   76  git switch finalexam
+   77  history > exam_log.txt
